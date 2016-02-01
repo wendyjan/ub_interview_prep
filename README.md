@@ -1,5 +1,8 @@
 # ub_interview_prep
 
+Week 1 Survey and Online Group/Email Signup:
+  http://goo.gl/forms/joifpcPND4
+
 Week 1, Easier Question # 1:
   https://docs.google.com/document/d/18ONsWhsEwCwKwY_OSzj0GKEVZPqOo9GA0-7AP3BDPhQ/edit?usp=sharing
   
