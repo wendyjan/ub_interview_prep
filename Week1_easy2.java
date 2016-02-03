@@ -33,4 +33,33 @@ public class Week1_easy2 {
     }
 }
 
+/** Some alternate solutions, courtesy of Dr. Alphonce!
+ * 
+1) Use a HashSet<Character>
+
+public static int countUniqueChars(String word) {
+       HashSet<Character> seen = new HashSet<Character>();
+       for (int i = 0; i < word.length(); i++) {
+               seen.add(word.charAt(i));
+       }
+       return seen.size();
+}
+
+2) Use an array:
+
+public static int countUniqueChars(String word) {
+       boolean[] seen = new boolean[256];  // 2^8 = 256
+       int uniqueCount = 0;
+       for (int i = 0; i < word.length(); i++) {
+               if (! seen[word.charAt(i)]) {
+                   seen[word.charAt(i)] = true;
+                   uniqueCount++;
+                }
+       }
+       return uniqueCount;
+}
+
+ * 
+ * /
+
 
