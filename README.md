@@ -1,5 +1,20 @@
 # ub_interview_prep
 
+Week 2 Survey:
+  http://goo.gl/forms/qabaPnFBSn
+
+Week 2, Easier Question # 1:
+  https://docs.google.com/document/d/10stTXrNZBlDnZA5P4tqjfSQWwlH_SEBW-laeyKCab2k/edit?usp=sharing
+  
+Week 2, Easier Question # 2: 
+  https://docs.google.com/document/d/1q__zdmB39Bm3rFmvaBbUw8KP7C4hD8VaaSZ7Nc4TTSs/edit?usp=sharing
+
+Week 2, Harder Question # 1:
+  https://docs.google.com/document/d/1nWhAayjYOkEDecqpHZ80S2_UkWk1-g1fUbxwF56Rc0o/edit?usp=sharing
+  
+Week 2, Harder Question # 2:
+  https://docs.google.com/document/d/1w5o7UFLr-m-JbQ4gPPZYd2qa8dLBHkNw7fTqYWVN5Pg/edit?usp=sharing
+
 Week 1 Survey and Online Group/Email Signup:
   http://goo.gl/forms/joifpcPND4
 
