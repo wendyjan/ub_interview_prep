@@ -17,10 +17,11 @@ def is_palindrome(word):
             head_index += 1
     return True
 
+# Alternate solution:
+# def is_palindrome(word):
+#     return word == word[::-1]
 
 if __name__ == "__main__":
     test_cases = ["otto", "otsto", "", "hi", "o", "ots2o"]
     for t in test_cases:
         print t, ":", is_palindrome(t)
-
-
