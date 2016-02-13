@@ -15,11 +15,12 @@ def find_nth_prime(n):
     potential_prime = 3
     while len(primes) < n:
         potential_prime += 2
+        potential_prime_sqrt = sqrt(potential_prime)
         test = True
         for t in primes:
-           if t > sqrt(potential_prime):
+            if t > potential_prime_sqrt:
                 break
-           if potential_prime % t == 0:
+            if potential_prime % t == 0:
                 test = False
                 break
         if test:
@@ -28,5 +29,5 @@ def find_nth_prime(n):
 
 
 if __name__ == "__main__":
-     print find_nth_prime(6)
-     print find_nth_prime(10001)
+    print find_nth_prime(6)
+    print find_nth_prime(10001)
