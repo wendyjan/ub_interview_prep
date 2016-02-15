@@ -1,5 +1,12 @@
 # ub_interview_prep
 
+## Week 3
+* Questions:
+  * [Easier Question # 1](https://docs.google.com/document/d/15SbtO4sjWtD_loEcDVVB-4AksXpBATDJfhljbqltwCc/edit?usp=sharing)
+  * [Easier Question # 2](https://docs.google.com/document/d/1iyC7exbTxw4_2K2QLPlV_4bVE8Veqj8_AQralbDYv-g/edit?usp=sharing)
+  * [Harder Question # 1](https://docs.google.com/document/d/1X6J9tb2y0kaXyyTydGL5sib9IGmlbv2JIymIhd2Ikts/edit?usp=sharing)
+  * [Harder Question # 2](https://docs.google.com/document/d/1CXz99M-VFgvn2ucqNvy-W6uCSn9TmiYXWkzDl33GpVo/edit?usp=sharing)
+
 ## Week 2
 * [Survey](http://goo.gl/forms/qabaPnFBSn)
 * Questions:
