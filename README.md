@@ -1,5 +1,12 @@
 #ub_interview_prep
 
+## Week 5
+* Questions:
+  * [Easier Question # 1](https://docs.google.com/document/d/15SbtO4sjWtD_loEcDVVB-4AksXpBATDJfhljbqltwCc/edit?usp=sharing://docs.google.com/document/d/1rHr803XFxua7pxMOaU3o7cLwdr9eo4fsXm1OrZWxkj8/edit?usp=sharing)
+  * [Easier Question # 2](https://docs.google.com/document/d/1L_fp3fRURcGcaWqwI4jL-uozZdjA3DzlOSanf1V1RFc/edit?usp=sharing)
+  * [Harder Question # 1](https://docs.google.com/document/d/1AbAvhQT84VTiJ1jUTPKlmwHUWKHnqkuKXqNVKiil5RU/edit?usp=sharing)
+  * [Harder Question # 2](https://docs.google.com/document/d/12DKufyg52UcXtUNK4vYxUvyGjjlRq5ujnkjKOK6Acms/edit?usp=sharing)
+
 ## Week 4
 This week we didn't split into pairs for practice questions, we watched a demo interview to review searching an array and pick up tips for communicating better during an interview. [The summary document is here.](https://docs.google.com/document/d/1pL17VbSuL1ZIPUoXCXs7C1VSAMBVo6F462NYktmgMZA/edit?usp=sharing)
 
