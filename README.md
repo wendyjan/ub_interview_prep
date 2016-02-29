@@ -2,7 +2,7 @@
 
 ## Week 5
 * Questions:
-  * [Easier Question # 1](https://docs.google.com/document/d/15SbtO4sjWtD_loEcDVVB-4AksXpBATDJfhljbqltwCc/edit?usp=sharing://docs.google.com/document/d/1rHr803XFxua7pxMOaU3o7cLwdr9eo4fsXm1OrZWxkj8/edit?usp=sharing)
+  * [Easier Question # 1](https://drive.google.com/open?id=1rHr803XFxua7pxMOaU3o7cLwdr9eo4fsXm1OrZWxkj8)
   * [Easier Question # 2](https://docs.google.com/document/d/1L_fp3fRURcGcaWqwI4jL-uozZdjA3DzlOSanf1V1RFc/edit?usp=sharing)
   * [Harder Question # 1](https://docs.google.com/document/d/1AbAvhQT84VTiJ1jUTPKlmwHUWKHnqkuKXqNVKiil5RU/edit?usp=sharing)
   * [Harder Question # 2](https://docs.google.com/document/d/12DKufyg52UcXtUNK4vYxUvyGjjlRq5ujnkjKOK6Acms/edit?usp=sharing)
