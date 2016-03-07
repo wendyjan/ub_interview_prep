@@ -1,5 +1,13 @@
 #ub_interview_prep
 
+
+## Week 5
+* Questions:
+  * [Easier Question # 1](https://docs.google.com/document/d/1Mmu5y-72pQ_z2-KHqK1kxc5WQ3zCn1--nFAjn0d0cck/edit?usp=sharing)
+  * [Easier Question # 2](https://docs.google.com/document/d/1SiTi8sVaDxitk-jr6GFPFFwO-BoeJDkIDTEdqbbYPDY/edit?usp=sharing)
+  * [Harder Question # 1](https://docs.google.com/document/d/1andVX87rJrSvp7XFXCMWVevjkkErM_Y6cPlcBviAi14/edit?usp=sharing)
+  * [Harder Question # 2](https://docs.google.com/document/d/1dzEH_-R9d9_9-tEdxvgE_2LmxKnNhcmP8TGa4r_hVUo/edit?usp=sharing)
+
 ## Week 5
 * Questions:
   * [Easier Question # 1](https://drive.google.com/open?id=1rHr803XFxua7pxMOaU3o7cLwdr9eo4fsXm1OrZWxkj8)
