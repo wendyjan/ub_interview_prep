@@ -1,7 +1,7 @@
 #ub_interview_prep
 
 
-## Week 5
+## Week 6
 * Questions:
   * [Easier Question # 1](https://docs.google.com/document/d/1Mmu5y-72pQ_z2-KHqK1kxc5WQ3zCn1--nFAjn0d0cck/edit?usp=sharing)
   * [Easier Question # 2](https://docs.google.com/document/d/1SiTi8sVaDxitk-jr6GFPFFwO-BoeJDkIDTEdqbbYPDY/edit?usp=sharing)
