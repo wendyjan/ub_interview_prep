@@ -1,6 +1,12 @@
 #ub_interview_prep
 
 
+## Week 7 
+* Questions:
+  * [Easier Question # 1](https://docs.google.com/document/d/1evn6opNS4L1vZDr5vqzgsrmsxTn-A9l-IfDIgf5d02s/edit?usp=sharing)
+  * [Easier Question # 2](https://docs.google.com/document/d/16XBwMWp1n9iFS-yQfytJdu3o9PL6mVY3w0MPvwVwW08/edit?usp=sharing)
+  * Harder Questions # 1 and #2: This week, we are using two related questions from "Programming Interviews Exposed" in person in Davis 338A from 5-6 pm today. Please email Wendy at wendyjan@buffalo.edu if you would like help finding recursion practice problems. 
+
 ## Week 6
 * Questions:
   * [Easier Question # 1](https://docs.google.com/document/d/1Mmu5y-72pQ_z2-KHqK1kxc5WQ3zCn1--nFAjn0d0cck/edit?usp=sharing)
