@@ -1,5 +1,10 @@
 #ub_interview_prep
 
+## UPDATE about future meeting location for May 2, 2016:
+* On May 2 we'll meet in Davis 113Y instead of our usual spot (338a). Same time, 5-6 pm. 
+
+## Week 8 (March 28, 2016)
+* This week all four of our practice questions came from "Programming Interviews Exposed", 3rd edition, by Mongan, Giguere, and Kindler. Please email Wendy at wendyjan@buffalo.edu if you'd like help finding more practice questions!
 
 ## Week 7 
 * Questions:
