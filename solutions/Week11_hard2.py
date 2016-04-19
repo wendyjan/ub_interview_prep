@@ -1,4 +1,7 @@
-"""Given a list of projects and their dependencies, determine the order in which the projects could be installed."""
+"""Given a list of projects and their dependencies, determine the order in which the projects could be installed.
+
+This is question 4.7 from “Cracking the Coding Interview”, 6th edition, by Gayle Laakmann McDowell. 
+It’s a great book, and you should consider buying it!"""
 
 # Input
 projects = ["a", "b", "c", "d", "e", "f"]
